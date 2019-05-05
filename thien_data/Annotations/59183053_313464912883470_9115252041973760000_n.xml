@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>59183053_313464912883470_9115252041973760000_n.jpg</filename>
+  <path>/media/binhmuc/Binhmuc/congviec/forThien/OpenLabeling/main/input/59183053_313464912883470_9115252041973760000_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>992</width>
+    <height>1334</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>207</xmin>
+      <ymin>153</ymin>
+      <xmax>552</xmax>
+      <ymax>814</ymax>
+    </bndbox>
+  </object>
+</annotation>
